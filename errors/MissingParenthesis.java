@@ -1,6 +1,6 @@
 public class MissingParenthesis {
     public static void main(String[] args) {
-        System.out.println("Missing parenthesis"
+        System.out.println("Missing parenthesis");
     }
 }
 

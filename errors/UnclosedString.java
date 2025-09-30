@@ -1,6 +1,6 @@
 public class UnclosedString {
     public static void main(String[] args) {
-        System.out.println("This string never ends);
+        System.out.println("This string never ends");
     }
 }
 

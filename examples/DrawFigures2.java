@@ -8,13 +8,13 @@ public class DrawFigures2 {
         drawCone();
         System.out.println("  \\    /");
         System.out.println("   \\  /");
-        System.out.println("    \\\/");
+        System.out.println("    \\\\/");
         System.out.println();
 
         // X
         System.out.println("  \\    /");
         System.out.println("   \\  /");
-        System.out.println("    \\\/");
+        System.out.println("    \\\\/");
         drawCone();
         System.out.println();
 

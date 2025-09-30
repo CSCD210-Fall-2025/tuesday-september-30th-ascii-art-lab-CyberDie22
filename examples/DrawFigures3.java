@@ -49,7 +49,7 @@ public class DrawFigures3 {
     public static void drawInvertedCone() {
         System.out.println("  \\    /");
         System.out.println("   \\  /");
-        System.out.println("    \\\/");
+        System.out.println("    \\\\/");
     }
 
     // Helper method: prints a simple 4-line box

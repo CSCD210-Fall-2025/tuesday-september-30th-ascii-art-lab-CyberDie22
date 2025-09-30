@@ -1,6 +1,6 @@
 public class WrongCase {
     public static void main(String[] args) {
-        system.out.println("Oops wrong case");
+        System.out.println("Oops wrong case");
     }
 }
 

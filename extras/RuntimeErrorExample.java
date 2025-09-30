@@ -6,6 +6,10 @@
 public class RuntimeErrorExample {
     public static void main(String[] args) {
         int x = 0;
+        if (x == 0) {
+            System.out.println("you tried to divide by zero!");
+            return;
+        }
         System.out.println(5 / x);
         System.out.println("You'll never see this message.");
     }

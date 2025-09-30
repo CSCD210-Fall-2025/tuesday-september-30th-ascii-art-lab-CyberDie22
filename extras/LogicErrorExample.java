@@ -7,6 +7,6 @@ public class LogicErrorExample {
         // The following line prints "1 + 1 = 11" because the numbers are
         // concatenated as strings.  Fix the logic by adding parentheses
         // around the arithmetic expression.
-        System.out.println("1 + 1 = " + 1 + 1);
+        System.out.println("1 + 1 = " + (1 + 1));
     }
 }

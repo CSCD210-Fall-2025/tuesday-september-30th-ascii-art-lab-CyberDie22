@@ -1,6 +1,7 @@
 public class MissingBrace {
     public static void main(String[] args) {
         System.out.println("Missing brace at the end!");
+    }
     // The closing brace of main is missing on purpose.
 }
 
